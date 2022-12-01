@@ -1,0 +1,6 @@
+projectKey=VulpyFJGM
+serverUrl=http://172.31.16.184
+serverVersion=9.7.1.62043
+dashboardUrl=http://172.31.16.184/dashboard?id=VulpyFJGM
+ceTaskId=AYTNuG7i4DdoRaUKmIel
+ceTaskUrl=http://172.31.16.184/api/ce/task?id=AYTNuG7i4DdoRaUKmIel
